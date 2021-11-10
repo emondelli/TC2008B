@@ -1,0 +1,105 @@
+Number of Roombas: 1, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (Time limit reached): 30.194586753845215
+Clean %: 72.0
+Agent Moves: [(1000, 119)]
+
+Number of Roombas: 2, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (Time limit reached): 30.212006092071533
+Clean %: 88.0
+Agent Moves: [(1000, 126), (1001, 120)]
+
+Number of Roombas: 3, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (Time limit reached): 30.00395965576172
+Clean %: 95.0
+Agent Moves: [(1000, 127), (1001, 126), (1002, 128)]
+
+Number of Roombas: 4, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (Time limit reached): 30.124002695083618
+Clean %: 98.0
+Agent Moves: [(1000, 119), (1001, 129), (1002, 130), (1003, 134)]
+
+Number of Roombas: 5, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (Time limit reached): 30.00713038444519
+Clean %: 96.0
+Agent Moves: [(1000, 128), (1001, 133), (1002, 136), (1003, 130), (1004, 122)]
+
+Number of Roombas: 6, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (Time limit reached): 30.06906533241272
+Clean %: 99.0
+Agent Moves: [(1000, 131), (1001, 127), (1002, 133), (1003, 130), (1004, 134), (1005, 130)]
+
+Number of Roombas: 7, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (Time limit reached): 30.04231286048889
+Clean %: 99.0
+Agent Moves: [(1000, 132), (1001, 131), (1002, 141), (1003, 137), (1004, 132), (1005, 129), (1006, 136)]
+
+Number of Roombas: 8, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (Time limit reached): 30.150309562683105
+Clean %: 99.0
+Agent Moves: [(1000, 133), (1001, 138), (1002, 141), (1003, 134), (1004, 140), (1005, 135), (1006, 132), (1007, 134)]
+
+Number of Roombas: 9, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (Time limit reached): 30.212143182754517
+Clean %: 98.0
+Agent Moves: [(1000, 134), (1001, 133), (1002, 135), (1003, 134), (1004, 136), (1005, 136), (1006, 130), (1007, 132), (1008, 133)]
+
+Number of Roombas: 10, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (All Clean): 17.55053424835205
+Clean %: 100.0
+Agent Moves: [(1000, 76), (1001, 83), (1002, 79), (1003, 75), (1004, 82), (1005, 80), (1006, 82), (1007, 77), (1008, 76), (1009, 80)]
+
+Number of Roombas: 11, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (All Clean): 24.111665964126587
+Clean %: 100.0
+Agent Moves: [(1000, 111), (1001, 114), (1002, 114), (1003, 109), (1004, 106), (1005, 111), (1006, 101), (1007, 110), (1008, 115), (1009, 113), (1010, 111)]
+
+Number of Roombas: 12, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (All Clean): 23.99079728126526
+Clean %: 100.0
+Agent Moves: [(1000, 110), (1001, 106), (1002, 106), (1003, 111), (1004, 111), (1005, 108), (1006, 108), (1007, 106), (1008, 109), (1009, 112), (1010, 107), (1011, 112)]
+
+Number of Roombas: 13, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (All Clean): 13.336702823638916
+Clean %: 100.0
+Agent Moves: [(1000, 59), (1001, 59), (1002, 60), (1003, 60), (1004, 63), (1005, 58), (1006, 63), (1007, 57), (1008, 60), (1009, 61), (1010, 55), (1011, 63), (1012, 64)]
+
+Number of Roombas: 14, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (All Clean): 14.292800664901733
+Clean %: 100.0
+Agent Moves: [(1000, 64), (1001, 63), (1002, 66), (1003, 59), (1004, 65), (1005, 67), (1006, 61), (1007, 62), (1008, 60), (1009, 63), (1010, 63), (1011, 65), (1012, 66), (1013, 64)]
+
+Number of Roombas: 15, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (All Clean): 15.490143537521362
+Clean %: 100.0
+Agent Moves: [(1000, 60), (1001, 65), (1002, 73), (1003, 71), (1004, 70), (1005, 70), (1006, 71), (1007, 73), (1008, 70), (1009, 68), (1010, 70), (1011, 69), (1012, 73), (1013, 73), (1014, 69)]
+
+Number of Roombas: 16, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (All Clean): 25.312156677246094
+Clean %: 100.0
+Agent Moves: [(1000, 118), (1001, 119), (1002, 115), (1003, 108), (1004, 110), (1005, 119), (1006, 119), (1007, 117), (1008, 113), (1009, 119), (1010, 119), (1011, 117), (1012, 118), (1013, 110), (1014, 119), (1015, 114)]
+
+Number of Roombas: 17, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (All Clean): 15.270296096801758
+Clean %: 100.0
+Agent Moves: [(1000, 65), (1001, 70), (1002, 69), (1003, 69), (1004, 71), (1005, 67), (1006, 71), (1007, 71), (1008, 64), (1009, 68), (1010, 70), (1011, 68), (1012, 67), (1013, 63), (1014, 65), (1015, 70), (1016, 69)]
+
+Number of Roombas: 18, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (All Clean): 18.09903836250305
+Clean %: 100.0
+Agent Moves: [(1000, 81), (1001, 83), (1002, 78), (1003, 82), (1004, 80), (1005, 84), (1006, 83), (1007, 80), (1008, 81), (1009, 84), (1010, 79), (1011, 79), (1012, 82), (1013, 78), (1014, 81), (1015, 81), (1016, 82), (1017, 84)]
+
+Number of Roombas: 19, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (All Clean): 21.962178945541382
+Clean %: 100.0
+Agent Moves: [(1000, 97), (1001, 98), (1002, 96), (1003, 99), (1004, 90), (1005, 86), (1006, 99), (1007, 94), (1008, 99), (1009, 99), (1010, 98), (1011, 95), (1012, 99), (1013, 97), (1014, 99), (1015, 99), (1016, 91), (1017, 98), (1018, 98)]
+
+Number of Roombas: 20, Starting Clean %: 50, Time Limit (seconds): 30
+Execution Time (All Clean): 17.86077332496643
+Clean %: 100.0
+Agent Moves: [(1000, 76), (1001, 78), (1002, 80), (1003, 75), (1004, 71), (1005, 83), (1006, 82), (1007, 82), (1008, 83), (1009, 83), (1010, 81), (1011, 81), (1012, 81), (1013, 80), (1014, 83), (1015, 83), (1016, 81), (1017, 83), (1018, 81), (1019, 83)]
+
+Number of Roombas: 1, Starting Clean %: 50, Time Limit (seconds): 60
+Execution Time (Time limit reached): 60.07150745391846
+Clean %: 88.0
+Agent Moves: [(1000, 241)]
+
